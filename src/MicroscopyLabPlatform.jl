@@ -1,0 +1,15 @@
+module MicroscopyLabPlatform
+include("Utils/SystemInfo.jl")
+include("Fluorophores/FluorophoreDB.jl")
+include("IO/TIFFLoader.jl")
+include("IO/TIFFExporter.jl")
+include("IO/Metadata.jl")
+include("PSF/PSFGenerator.jl")
+include("Algorithms/RichardsonLucyCPU.jl")
+include("Algorithms/DeconvOptimCPU.jl")
+include("Algorithms/AlgorithmManager.jl")
+include("GUI/Viewer.jl")
+include("GUI/Controls.jl")
+include("GUI/BatchPanel.jl")
+include("GUI/MainWindow.jl")
+end

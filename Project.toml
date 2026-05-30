@@ -1,0 +1,9 @@
+[deps]
+DeconvOptim = "03e7cd2f-1a03-4ea9-b59b-760a446df67f"
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+NativeFileDialog = "e1fe445b-aa65-4df4-81c1-2041507f0fd4"
+PointSpreadFunctions = "e8810a93-244e-46c5-8da3-35c5dd956001"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
