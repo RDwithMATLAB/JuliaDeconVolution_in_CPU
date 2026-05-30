@@ -71,7 +71,7 @@ Automatically computes a **dynamic Point Spread Function (PSF)** based on micros
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/YourUsername/JuliaDeconVolution_in_CPU.git
+git clone https://github.com/RDwithMATLAB/JuliaDeconVolution_in_CPU.git
 cd JuliaDeconVolution_in_CPU
 ```
 
